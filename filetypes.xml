@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="cnpm" type="PLAIN_TEXT" />
+      <mapping pattern="set" type="PLAIN_TEXT" />
+      <mapping ext="tpl" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
